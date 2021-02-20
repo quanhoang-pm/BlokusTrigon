@@ -49,4 +49,5 @@ Just a note that it is intuitive to score players by the number of triangles the
 | 2020-08-30 | bot - 110       | Supporter - 71    | assistant - 110 | Don Quixote - 92 |
 | 2020-09-20 | bard - 110      | Zorro - 98        | Supporter - 99  | bot - 79         |
 | 2020-10-10 | bard - 104      | Supporter - 110   | myself - 107    | bot - 101        |
+| 2021-02-20 | bot - 110       | Supporter - 96    | Zorro - 80      | bard - 106       |
 |            |                 |                   |                 |                  |
