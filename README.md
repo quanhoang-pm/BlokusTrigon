@@ -61,3 +61,4 @@ Just a note that it is intuitive to score players by the number of triangles the
 | myself      |         6 |             3 |    91 - 110 |
 | assistant   |         4 |             2 |    97 - 110 |
 | Don Quixote |         2 |             0 |    92 - 102 |
+|             |           |               |             |
