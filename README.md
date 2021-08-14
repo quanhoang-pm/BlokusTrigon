@@ -35,33 +35,34 @@ The summary records all players and their scores in all games we have played so 
 
 Just a note that it is intuitive to score players by the number of triangles they've placed in a game. Therefore 110 points is the maximum score a player can get, and then he/she is called as a perfect player. Sometimes you could see a game with a 130-point player, it is just 20 more points rewarding to a perfect player, we don't count these 20 points in the summary.
 
-| Index | Date       | Blue            | Yellow            | Red             | Green            |
-|------:|:-----------|:----------------|:------------------|:----------------|:-----------------|
-|     1 | 2020-05-02 | assistant - 101 | myself - 91       | bot - 82        | bard - 102       |
-|     2 | 2020-05-09 | Supporter - 91  | bot - 106         | bard - 84       | Zorro - 88       |
-|     3 | 2020-05-17 | Supporter - 97  | bot - 102         | bard - 102      | Zorro - 92       |
-|     4 | 2020-05-26 | Zorro - 110     | Supporter - 99    | bard - 94       | bot - 104        |
-|     5 | 2020-06-22 | bot - 93        | Supporter - 110   | bard - 91       | myself - 110     |
-|     6 | 2020-06-27 | bard - 110      | Supporter - 92    | myself - 110    | bot - 98         |
-|     7 | 2020-07-04 | Zorro - 85      | assistant - 110   | Supporter - 99  | bard - 94        |
-|     8 | 2020-07-19 | myself - 110    | assistant - 97    | Zorro - 90      | bard - 102       |
-|     9 | 2020-08-16 | bard - 102      | Don Quixote - 102 | myself - 101    | Zorro - 101      |
-|    10 | 2020-08-30 | bot - 110       | Supporter - 71    | assistant - 110 | Don Quixote - 92 |
-|    11 | 2020-09-20 | bard - 110      | Zorro - 98        | Supporter - 99  | bot - 79         |
-|    12 | 2020-10-10 | bard - 104      | Supporter - 110   | myself - 107    | bot - 101        |
-|    13 | 2021-02-20 | bot - 110       | Supporter - 96    | Zorro - 80      | bard - 106       |
-|    14 | 2021-03-20 | Zorro - 110     | Supporter - 95    | bard - 110      | bot - 110        |
-|    15 | 2021-03-21 | Supporter - 101 | assistant - 106   | myself - 101    | bot - 106        |
-|    16 | 2021-07-10 | bard - 110      | myself - 95       | bot - 110       | Zorro - 110      |
-|       |            |                 |                   |                 |                  |
+| Index | Date       | Blue            | Yellow            | Red               | Green            |
+|------:|:-----------|:----------------|:------------------|:------------------|:-----------------|
+|     1 | 2020-05-02 | assistant - 101 | myself - 91       | bot - 82          | bard - 102       |
+|     2 | 2020-05-09 | Supporter - 91  | bot - 106         | bard - 84         | Zorro - 88       |
+|     3 | 2020-05-17 | Supporter - 97  | bot - 102         | bard - 102        | Zorro - 92       |
+|     4 | 2020-05-26 | Zorro - 110     | Supporter - 99    | bard - 94         | bot - 104        |
+|     5 | 2020-06-22 | bot - 93        | Supporter - 110   | bard - 91         | myself - 110     |
+|     6 | 2020-06-27 | bard - 110      | Supporter - 92    | myself - 110      | bot - 98         |
+|     7 | 2020-07-04 | Zorro - 85      | assistant - 110   | Supporter - 99    | bard - 94        |
+|     8 | 2020-07-19 | myself - 110    | assistant - 97    | Zorro - 90        | bard - 102       |
+|     9 | 2020-08-16 | bard - 102      | Don Quixote - 102 | myself - 101      | Zorro - 101      |
+|    10 | 2020-08-30 | bot - 110       | Supporter - 71    | assistant - 110   | Don Quixote - 92 |
+|    11 | 2020-09-20 | bard - 110      | Zorro - 98        | Supporter - 99    | bot - 79         |
+|    12 | 2020-10-10 | bard - 104      | Supporter - 110   | myself - 107      | bot - 101        |
+|    13 | 2021-02-20 | bot - 110       | Supporter - 96    | Zorro - 80        | bard - 106       |
+|    14 | 2021-03-20 | Zorro - 110     | Supporter - 95    | bard - 110        | bot - 110        |
+|    15 | 2021-03-21 | Supporter - 101 | assistant - 106   | myself - 101      | bot - 106        |
+|    16 | 2021-07-10 | bard - 110      | myself - 95       | bot - 110         | Zorro - 110      |
+|    17 | 2021-08-15 | bard - 106      | Supporter - 102   | Don Quixote - 110 | assistant - 103  |
+|       |            |                 |                   |                   |                  |
 
 | Player      | # Matches | # 110-matches | Score range |
 |:------------|----------:|--------------:|------------:|
-| bard        |        14 |             4 |    84 - 110 |
+| bard        |        15 |             4 |    84 - 110 |
 | bot         |        13 |             4 |    79 - 110 |
-| Supporter   |        12 |             2 |    71 - 110 |
+| Supporter   |        13 |             2 |    71 - 110 |
 | Zorro       |        10 |             3 |    80 - 110 |
 | myself      |         8 |             3 |    91 - 110 |
-| assistant   |         5 |             2 |    97 - 110 |
-| Don Quixote |         2 |             0 |    92 - 102 |
+| assistant   |         6 |             2 |    97 - 110 |
+| Don Quixote |         3 |             1 |    92 - 110 |
 |             |           |               |             |
