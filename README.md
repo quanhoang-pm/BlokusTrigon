@@ -54,15 +54,15 @@ Just a note that it is intuitive to score players by the number of triangles the
 |    15 | 2021-03-21 | Supporter - 101 | assistant - 106   | myself - 101      | bot - 106        |
 |    16 | 2021-07-10 | bard - 110      | myself - 95       | bot - 110         | Zorro - 110      |
 |    17 | 2021-08-15 | bard - 106      | Supporter - 102   | Don Quixote - 110 | assistant - 103  |
-|       |            |                 |                   |                   |                  |
+|    18 | 2022-03-06 | Zorro - 110     | Supporter - 99    | Don Quixote - 110 | bot - 110        |
 
 | Player      | # Matches | # 110-matches | Score range |
 |:------------|----------:|--------------:|------------:|
 | bard        |        15 |             4 |    84 - 110 |
-| bot         |        13 |             4 |    79 - 110 |
-| Supporter   |        13 |             2 |    71 - 110 |
-| Zorro       |        10 |             3 |    80 - 110 |
+| bot         |        14 |             5 |    79 - 110 |
+| Supporter   |        14 |             2 |    71 - 110 |
+| Zorro       |        11 |             4 |    80 - 110 |
 | myself      |         8 |             3 |    91 - 110 |
 | assistant   |         6 |             2 |    97 - 110 |
-| Don Quixote |         3 |             1 |    92 - 110 |
+| Don Quixote |         4 |             2 |    92 - 110 |
 |             |           |               |             |
